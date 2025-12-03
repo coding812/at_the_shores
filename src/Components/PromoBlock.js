@@ -19,7 +19,7 @@ const streamingIcons = {
 
 const PromoBlock = () => (
   <section className="text-center py-4">
-    <h2 className="text-xl font-normal tracking-super-wide mb-2">LATEST RELEASE: "IN ENTROPY"</h2>
+    <h2 className="text-xl font-normal tracking-super-wide mb-2">LATEST RELEASE: &quot;IN ENTROPY&quot;</h2>
     <p className="text-sm mb-4">STREAMING NOW</p>
     {/* <p className="text-sm mb-4">CDS, VINYL, TAB BOOK, SHIRTS, AND MORE HERE</p> */}
 
